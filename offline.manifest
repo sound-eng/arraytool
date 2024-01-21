@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+#rev 1.104
+
+arraytools.js
+calcWorker.js
+dygraph-combined.js
+l10n.js
+localizations.js
+json2.js
+
+bootstrap-select.css
+bootstrap.min.css
+prettify.css
+jquery.bootstrap-touchspin.min.css
+
+jquery.min.js
+bootstrap.min.js
+prettify.js
+jquery.bootstrap-touchspin.min.js
+bootstrap-select.js
+bootstrap-slider.js
+
+NETWORK:
+*
