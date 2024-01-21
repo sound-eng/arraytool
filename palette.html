@@ -1,0 +1,17 @@
+<html>
+<head>
+<script type="text/javascript"
+  src="dygraph-combined.js"></script>
+<script type="text/javascript"
+  src="arraytools.js"></script>
+</head>
+<body>
+<div id="graphdiv" style="width:94%; height = 300px; position:relative"></div>
+<script type="text/javascript">
+
+
+g = new Dygraph(document.getElementById("graphdiv"), getColorData, {colors:["red", "green", "blue"]});
+
+</script>
+</body>
+</html>
